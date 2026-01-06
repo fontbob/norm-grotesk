@@ -1,6 +1,6 @@
 # Norm Grotesk
 
-<a href="https://fontbob.com/remix/norm-grotesk"><img height="50px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
+<a href="https://fontbob.com/remix/norm-grotesk" target="_blank"><img height="50px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
 
 Norm Grotesk is an open source workhorse typeface by PuzzylPiece. It takes the unfiltered Swiss aura of Akzidenz-Grotesk Halbfett and modernizes it for the digital age. It's completey free under the OFL-1.1 license.
 
